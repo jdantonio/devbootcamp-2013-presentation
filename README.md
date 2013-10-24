@@ -13,12 +13,12 @@ The constraints for the presentation were:
 > - What you look for when you're growing a team
 > - How you build a team, etc, etc.
 
+Feedback? Feel free to ping me over [Twitter](https://twitter.com/jerrydantonio).
+
+<hr />
+
 The inspiration for this talk came from [Mando Escamilla](https://twitter.com/mandoescamilla) and the talk [Tell Us Another Story, Grandpa: Lessons Learned Over 16 Years as a Developer](http://cascadiaruby.com/#tell-us-another-story-grandpa-lessons-learned-over-16-years-as-a-developer) which he gave at [CascadiaRuby](http://cascadiaruby.com/) in October of 2013. His talk was so powerful and so moving I scrapped my original idea in lieu of his. If my presentation sucks it's my failure to execute. His talk was brilliant.
 
 ## Copyright
 
-This work is Copyright &copy; 2013 [Jerry D'Antonio](https://twitter.com/jerrydantonio). It is available under the [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US) licence.
-
-<hr />
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">What I've Learned</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jdantonio/devbootcamp-2013-presentation" property="cc:attributionName" rel="cc:attributionURL">Jerry D'Antonio</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"What I've Learned"</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jdantonio/devbootcamp-2013-presentation" property="cc:attributionName" rel="cc:attributionURL">Jerry D'Antonio</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
