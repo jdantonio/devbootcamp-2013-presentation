@@ -1,8 +1,11 @@
 # Presentation: "What I've Learned"
 
-This is the presentation I gave to [DevBootCamp](http://devbootcamp.com/) Chicago on 10/24/2103.
+This is the presentation I've given a couple of times, specifically:
 
-The constraints for the presentation were:
+* [DevBootCamp](http://devbootcamp.com/) Chicago on 10/24/2013
+* [Software Craftsmanship Guild](http://www.swcguild.com/) Akron on 9/22/2014
+
+The original constraints for the presentation were:
 
 > Talks tend to be less technical and more high-level. Topics like:
 > 
