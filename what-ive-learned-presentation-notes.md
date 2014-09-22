@@ -24,7 +24,7 @@ At this time I was in the Army Reserves and I had an opportunity to attend PLDC 
 * I was the lowest ranking person in my class
 * The instructor kept assigning me leadership responsibilities
 * It was obvious that the workload wasn't even
-* One day I said "Sgt., if I didn'y know better I would think you are picking on me."
+* One day I said "Sgt., if I didn't know better I would think you are picking on me."
 * He responded: "I am picking on you."
 * As the youngest and lowest ranked attendee I was the least experienced and least likely to be able to apply these lessons when I got back to my unit
 * So he gave me as many opportunities as possible
@@ -47,7 +47,7 @@ Our instructor moved us to a quiet hill so we could discuss what happened. He as
 
 Our instructor turned to the team and asked "How many people here agree that Jerry failed?" No on raised their hands. He then asked "How many people here would love to have a Private like Jerry in their unit?" Everyone raised their hand.
 
-The instructor look at me and said: "Jerry, you still don't get it. This isn't a tactical comabt course. This is a *leadership* course."
+The instructor look at me and said: "Jerry, you still don't get it. This isn't a tactical combat course. This is a *leadership* course."
 
 <hr />
 
@@ -78,7 +78,7 @@ Of course, I had no idea what to say. I hadn't given this any thought. I didn't 
 
 He continued: "Dennis knows that on his best day he can't keep up with you when you're hungover from partying all night. So instead of competing with you Dennis does what he can to *support* you. Dennis takes every crap job that you think is below you does it happily so you can concentrate on the harder job. Dennis makes sure to refer people to you when he knows you can answer their questions better. Dennis doesn't try to compete with you because he knows he can't. Dennis consistently does what's best for the team and doesn't complain about it."
 
-"You, on the other hand," he continued (still at very high volume) "bith and whine and moan all the time. For all your talent you're never happy. You stay out all night whenever we're about to get underway and navigate us out of the harbor hungover and barely able to open your eyes and we let you do it *because you are that good*. But don't ever confuse being *good* with reaching your potential. Dennis consistently gives 100% day in and day out. You? I have no idea what 100% from you looks like because I've never seen it."
+"You, on the other hand," he continued (still at very high volume) "bitch and whine and moan all the time. For all your talent you're never happy. You stay out all night whenever we're about to get underway and navigate us out of the harbor hungover and barely able to open your eyes and we let you do it *because you are that good*. But don't ever confuse being *good* with reaching your potential. Dennis consistently gives 100% day in and day out. You? I have no idea what 100% from you looks like because I've never seen it."
 
 *"You may be 10-times the Quartermaster Dennis is but he's twice the sailor you are. And he's twice the sailor you'll ever be if you don't pull your head out of your ass."*
 
@@ -86,7 +86,7 @@ He continued: "Dennis knows that on his best day he can't keep up with you when 
 
 * Every member of the team has their strengths
 * The best teams maximize the potential of each team member
-* Even when each member has a different potential
+* Every member of the team is equally valuable
 * Each member should give their best, regardless of where their *best* compares to that of their teammates
 
 ## Recognize the good in all you do
@@ -132,36 +132,9 @@ I turned down the job and left the company within a few months.
 * Always ask yourself where you want to be in a year, three years, five years, etc.
 * Make the choices that get you where you truly want to go
 
-## Bad things *will* happen to you
-
-When I was 26 years old my father passed away. He had a heart attack late on a Sunday evening and he was gone by the weekend. My relationship with my father was a complicated one. The kind of relationship I normally only talk about with my therapist at ridiculous cost to my insurance company. Be he was my father. He was the only family I had in Denver. My tech career was just taking off and he was proud of what I was accomplishing. And just like that he was gone.
-
-<hr />
-
-* Bad things *will* happen to you
-* It's just an unfortunate reality that none of us will escape
-* But you will survive
-* I may take effort, it may take years, and in some extreme cases it may take professional help
-* But you are far more resilient than you may realize
-* And things will get better
-
-## You will regret some decisions
+## No one wants to do bad work
 
 A few years later I was working as a web programmer for a dot-com startup (back then we called it "webmaster"--yes, I am *that* old). The dot-com boom was in full swing, I was making good money, I was finishing up my first masters degree, I had a fat stack of (now worthless) stock options. Everything was coming together.
-
-I had an opportunity to go to Melbourne Australia for work for a week. Easily one of the best cities in the world. I loved every minute of it. Back then I also held several Microsoft certifications. Those certifications were hot properties back then and I was highly sought after. So I'm in Melbourne having a totally innocuous conversation with the President of a private school in the city. They were desperate for a new network manager. When he heard I had a stack of Microsoft certifications and was pursuing a masters degree he offered me a job. Just like that. Out of the blue. Asked me is I would be willing to stop by the school, meet some of the staff, and start the formal interview process. I was clearly taken aback. Oddly, my first thought was with getting a work visa. "Not a problem" he said. "We desperately need technical people in Australia. With your skills I could get you a visa by the end of the week."
-
-I turned down the offer. Shook his hand, said "this is very sudden so I need to think about it" and never called him back. I had a litany of excuses that seemed reasonable at the time but they were all bullshit. I was scared and I let fear make the decision for me.
-
-<hr />
-
-* Being human means making mistakes
-* Mistakes naturally lead to regret
-* But you need to learn from your mistakes and grow from them
-* Don't carry your regret with you forever
-* It will eat you up from the inside if you do
-
-## No one wants to do bad work
 
 So I'm back to work as the manager of the development team and one of my employees isn't meeting expectations. She was hired as an HTML author (that was a real job back then) but she really wanted to be a programmer. I hired her knowing that was her goal but she took the job knowing she didn't yet have the skills. We both knew she wasn't living up to her potential and we both knew why. Bus as the boss I had to make a decision. So I used her next performance review to let her make that decision.
 
@@ -174,47 +147,6 @@ I offered her two choices. I put two job "offers" in front of her. One was for "
 * People generally want to do good work
 * The problem is never as simple as "performance"
 * Find the root of the problem and solve it
-
-## Recognize when it's time to go
-
-And then the dot-com bubble burst. Everything cam crashing down. You never realize just how dysfunctional a company is until things start to go bad. Turns out I was working for a very, very dysfunctional company. And things go bad.
-
-As the webmaster I was the boss fo half the company. I reported directly to one owner. Everyone else at the company reported (directly or indirectly) to the other owner. The two owners started *really* disliking each other. Given my role I found myself in the middle of a lot of controversy. Admittedly, my personal performance wasn't the best at this time, either. I'm human, too, and the dysfunction affected me just like everyone else. So I decided to quit…
-
-And got talked out of it. My boss had been one of my instructors while I was pursuing my undergrad. I considered him a friend. As my "friend" he talked me into staying. Staying was a mistake. I should have left.
-
-<hr />
-
-* The unknown is scary
-* Sometimes it seems easier to stick with "the devil you know"
-* Often a bad situation that we've learned how to live with seems less bad than the unknown that we'll face if we leave
-* Usually we're completely wrong
-
-## Business isn't personal
-
-Six months later I was fired from the job I had tried to quit. My boss had asked me to stay because he and I had a history together. I truly believe he valued that history and I truly believe he wanted things to work out. But it wasn't going to. I was a bad fit for the company at the time. Despite all the work I did helping build the company from scratch my presence was disruptive. As profits started to shrink the ROI on my presence was getting lower. Keeping me was simply a bad business decision.
-
-<hr />
-
-* Some people are not a good fit for some jobs
-* Some jobs are not a good fit for some people
-* Recognizing this isn't personal
-
-## But how you conduct business is
-
-I was working from home at the time I was fired. A couple of weird things that happened in the previous months that made me paranoid. So I bluntly aksed my boss one day "Are you planning to get rid of me?" He denied it in every possible way. There was no way he would ever get rid of me. A month later he fired me.
-
-By email.
-
-He repaid my friendship and my loyalty by sending me an email telling me not to come in to work that day because I no longer had a job. He followed up by asking if we could meet somewhere outside the office so that I could return the company's computer and other assets.
-
-I never faulted him for the decision to get rid of me, but I forever lost my respect for him over how he handled it.
-
-<hr />
-
-* Business is not personal but you conduct business is often intensely personal
-* Never forget that employees aren't "assets" or "resources"
-* Employees are human beings
 
 ## You are *not* your code
 
@@ -250,7 +182,7 @@ So I quit my job.
 * But love of work is no substitute for real love
 * Learn the difference
 
-## Teams stand together
+## Good teams stand together
 
 A few years later I'm working for a public broadcaster. One of the best companies I ever worked for. We were approaching our annual televised auction. My first. We pulled the code and databases from source control and discovered things were missing. The contractor who originally did the work hadn't put the database into source control and never created scripts to reproduce it. At one point we had a functioning auction system but we had done a ton of server work in the past year: buying new hardware, moving to virtual machines, decommissioning old servers, migrating servers, etc. Somewhere along the way we lost important stuff. Eventually we bit the bullet and told our VP and the VP in charge of the auction.
 
@@ -285,25 +217,9 @@ We had to start from scratch so we used the opportunity to learn the pain points
 * When something goes bad, make it better
 * Always leave things better than you found them
 
-## Do the right thing
-
-In my next job I found myself taking over a failed project (again). My predecessor was a good person but a bad fit in the role. One of the things he had done poorly was track the money. I spent an inordinate time trying to figure out who he had spent so much money and provided so little software to show for it. One of the things I discovered is that our pay scale for tech contractors was all over the board. Some were grossly overpaid and some were grossly underpaid. The lowest on the pay scale was so low I was embarrassed. But this was his first tech gig and he had been trying to break into the industry so he took what he could get.
-
-I heard through the grapevine that this programmer was also talking to a local contracting firm. A very well-respected and well-known firm. With a few months of professional work under his belt he had more to talk about now. In the short time I knew him I recognized that he was smart, hard working, industrious, and probably had a great career ahead of him. Given the tight job market I didn't want to lose him, but I also knew we weren't paying him squat and couldn't offer him health insurance. Fortunately for me I knew the owner of the consulting company personally, so I gave him a call and met up with him at his office.
-
-I cut through the BS and told him I knew he was talking to my programmer. He admitted he was. I told him that I would like to keep the programmer on my project but that I knew the value he would gain by jumping ship. So I suggested they give him a job then I contract him back to my project. We did some back-of-the-napkin calculations based on what they were thinking of offering him and we shook hands. They followed-up with the programmer and eventually everything came together. It cost me a lot more money but nothing that wasn't perfectly reasonable for the market at the time and nothing that my budget couldn't handle. Everyone won.
-
-<hr />
-
-* You have a conscience
-* It's smarter than you are
-* Sometimes it's very hard to do the right thing
-* Do it anyway
-* Your life will be better for it
-
 ## My team gets credit, I get blame
 
-So we get the project turned around and we start cranking out code. We made some very pragmatic decisions but the funder was happy and stopped threatening to pull the funds. Then one day one of the members of the business team--someone I workers with at my previous job and someone with whom I shared tremendous mutual respect--got upset over a feature.
+In my next job I found myself taking over a failed project (again). My predecessor was a good person but a bad fit in the role. So we get the project turned around and we start cranking out code. We made some very pragmatic decisions but the funder was happy and stopped threatening to pull the funds. Then one day one of the members of the business team--someone I workers with at my previous job and someone with whom I shared tremendous mutual respect--got upset over a feature.
 
 So we're sitting in the office and he is uncharacteristically angry. Fuming mad actually. I thought the actual bug was very minor but it was important to him so it was important to me. He kept asking me which programmer worked on the feature and I kept refusing to tell him.
 
@@ -338,36 +254,11 @@ One of the guys on my team now worked with me on another project a few years ago
 * You will always be more happy and more genuine if you embrace the real you
 * Screw everyone else if they don't like it
 
-## Sometimes people screw up
-
-I'm at my first non-management job in a few years and I'm immediately given two very difficult projects. I have the experience and my boss felt I would be the best fit. I developed what I thought were good solutions but they required us to do some things with the servers that we hadn't done before. I was very open about this with my boss and our devops person and I was assured things would get done.
-
-After three months and numerous reminders from me things still hadn't gotten done. I repeatedly warned my boss that bad things might happen. Each time I was told that I was not going to be given the necessary server access to get it done myself but that our devops person would do. Eventually it came time to released and we had not adequately tested. And things went badly as expected.
-
-To everyone's credit there was no blaming. We just got together as a team and fixed things. Once we got everything working it became clear that we would have found all the problems had we done the testing I had repeatedly asked for.
-
-At my request there was a private meeting between myself, my boss, and our devops. I had no interest in making anything more public than it already was, but I wanted to discuss what went wrong so we could avoid making the same mistakes again. What I was told was "No one is blaming you, but sometimes things just happen. We handled it so we should just move on."
-
-I couldn't disagree more.
-
-I'm glad no on was blaming me because it wasn't my fault. In fact, I had made repeated attempts to avoid these exact problems. What I mostly took issue with, however, was the "sometimes things happen" attitude. Sure, sometimes things do just "happen" but sometimes people actually screw up. It's important to recognize the difference and act appropriately.
-
-In this case, someone screwed up. We never should have gotten ourselves in that situation. It was completely avoidable.
-
-<hr />
-
-* People make mistakes, it's part of being human
-* When you make a mistake be accountable
-* Accept that you made a mistake
-* It doesn't make you a bad person
-* Denying the mistake does
-* Learn from your mistakes and move on
-
 ## Take Risks
 
 So now I'm nearly 20 years into my career. I've been a student, a teacher, a boss, and a teammate. I'm very established in my area and have a pretty good (thought not spotless) reputation. I work for a great company doing interesting work with some of the best tech professionals I have ever met. By all accounts my career is good. But that's no excuse for resting on my laurels.
 
-I've never spoken at a major conference before. I've had plenty of experience speaking publicly but it's mostly been in the classroom and at user group meetings. Speaking in front of 100+ strangers at a conference is something I haven't done. But I'm proud of the work I'm doing these days and I think others can benefit from what we're doing so I want to share. So on a lark I submit three abstracts to a conference on the complete opposite end of the country. I had no expectation whatsoever that I would get invited to speak. Famous last words, as they say. So I presented last week at CascadiaRuby in Portland. Today I'm speaking at DevBootCamp in Chicago. In January I'm speaking at CodeMash in Ohio. And next week, in the biggest surprise of all, I'm speaking at *the* RubyConf in Miami Beach.
+Two years ago I had never spoken at a major conference nor had I contributed to open source. I'd had plenty of experience speaking publicly but it was mostly in the classroom and at user group meetings. Speaking in front of 100+ strangers at a conference is something I hadn't done. Similarly, I had been writing code for a very long time but I had never made it publicly accessible. But I'm proud of the work I do and I think others can benefit from what I've done. So I wanted to share. So on a lark I put some code on GitHub and I started submitting abstracts to various conferences. Today and I am the creator and maintainer of a couple of open source projects, including a gem that has five other active contributors from five other countries. I'm also a fairly regular conference speaker. I've spoken at Cascadia Ruby, CodeMash, Stir Trek, and RubyConf (the biggest Ruby conference in the United States). I've also given presentations at DevBootCamp Chicago, here at the Software Craftsman Guild in Akron, and I've taught at RailsBrigde Cleveland. And I still speak at various user groups including the Akron Code Club and Cleveland Ruby Brigade.
 
 <hr />
 
@@ -375,7 +266,7 @@ I've never spoken at a major conference before. I've had plenty of experience sp
 * Never stop challenging yourself
 * Some risks won't pay off
 * But there are no rewards without risk
-* As my father used to say, "The worst they can do is say 'No"
+* "If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!" ― Richard Branson
 
 ## Sometimes the best idea isn't yours
 
@@ -438,28 +329,3 @@ Thank you.
 * Jerry D'Antonio
 * [@jerrydantonio](https://twitter.com/jerrydantonio)
 * [github.com/jdantonio](https://github.com/jdantonio)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
